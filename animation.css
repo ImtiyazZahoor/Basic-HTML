@@ -1,0 +1,59 @@
+.rec-1, .rec-2, .rec-3 {
+    background-color: gray;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: relative;
+    top:300px;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-delay: 2s;
+}
+.rec-1{
+    animation-name: animation;
+}
+.rec-2{
+    animation-name: animation-2;
+}
+.rec-3{
+    animation-name: animation-3;
+}
+@keyframes animation {
+    from{
+     background-color: gray;
+     height: 20px;
+     width: 20px;
+    }
+    to{
+        background-color: blue;
+        height: 50px;
+        width: 50px;
+    }
+}
+
+@keyframes animation-2 {
+    from{
+     background-color: gray;
+     height: 35px;
+     width: 35px;
+    }
+    to{
+        background-color: blue;
+        height: 30px;
+        width: 30px;
+    }
+}
+
+@keyframes animation-3 {
+    from{
+     background-color: gray;
+     height: 40px;
+     width: 40px;
+    }
+    to{
+        background-color: blue;
+        height: 20px; 
+        width: 20px;
+    }
+}

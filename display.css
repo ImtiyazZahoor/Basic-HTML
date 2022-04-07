@@ -1,0 +1,126 @@
+body{
+  background-color: pink;
+  height: 800px;
+}
+.span1{
+  height: 200px;
+  width: 200px;
+  background-image: url("pic-1.jpg");
+  display: inline-block;
+  margin: 20px;
+  background-size: cover;
+  position: relative;
+  background-color: blue;
+}
+.span2{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  .span3{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  .span4{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+  }
+  .span5{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  .span6{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  .span7{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  .span8{
+    height: 200px;
+    width: 200px;
+    background-image: url("pic-1.jpg");
+    display: inline-block;
+    margin: 20px;
+    background-size: cover;
+    position: relative;
+  }
+  
+  /* hover Effect */
+  .span1:hover{
+      background-size: cover;
+      background-position: center;
+     transform: rotate(360deg);
+     transition: 3s;
+  }
+  .span2:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span3:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span4:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span5:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span6:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span7:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}
+.span8:hover{
+    background-size: cover;
+    background-position: center;
+   transform: rotate(360deg);
+   transition: 3s;
+}

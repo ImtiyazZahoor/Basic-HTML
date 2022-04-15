@@ -1,0 +1,137 @@
+.sub-main{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+.main{
+    height: 530px;
+    width: 600px;
+    background-color: blue;
+    
+}
+.main2{
+    height: 80px;
+   width: 588px;
+   background-color: rgb(13, 248, 182);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 1%;
+   color: white;
+   font-size: 30px;
+}
+/* .recc1,.rec22,.recc33{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(78, 77, 77);
+} */
+/* .recc1{
+    animation: ree infinite alternate-reverse 6s;
+    background-color: red;
+}
+.recc2{
+    animation: ree1 infinite alternate-reverse 6s;
+    animation-delay: 0.2s;
+    background-color: yellow;
+}
+.recc3{
+    animation: ree2 infinite alternate-reverse 6s;
+    animation-delay: 0.4s;
+    background-color: blue;
+} */
+.sm{
+    display: flex;
+}
+.main3{
+    height: 330px;
+    width:250px;
+    background-color: rgb(97, 251, 97);
+    margin: 1%;
+    font-size: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main4{
+    height:330px;
+    width:388px ;
+    background-color: rgb(254, 183, 51);
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 1%;
+}
+.main4 .text{
+    width: 0px;
+    position: relative;
+    bottom: 145px; 
+    left: 160px;
+    color: white;
+    font-size: 30px;
+} 
+.rec1,.rec2,.rec3{
+    height: 140px;
+    width: 140px;
+    margin: 1%;
+    background-color: rgb(227, 149, 6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    
+ }
+ .main5{
+    height: 80px;
+    width: 588px;
+    background-color: rgb(13, 248, 182);
+    margin: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+ /*
+.rec1{
+    animation: re infinite alternate-reverse 2s;  
+    position: relative;
+}
+.rec2{
+    animation: ref infinite alternate-reverse 2s;
+    animation-delay: 0.2s;
+    position: relative;
+}
+.rec3{
+    animation: rev infinite alternate-reverse 2s;
+    animation-delay: 0.4s;
+    position: relative;
+} */
+/* @keyframes re {
+    from{
+        top: 0%;
+    }
+    to{
+        top: -72%;
+    }
+}
+@keyframes ref {
+    from{
+        top: 0%;
+    }
+    to{
+        top: -72%;
+    }
+}
+@keyframes rev {
+    from{
+        top: 0%;
+    }
+    to{
+        top: -72%;
+    }
+} */
